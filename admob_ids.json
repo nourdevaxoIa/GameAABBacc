@@ -1,0 +1,6 @@
+{
+    "androidBannerAdUnitId": "your_android_banner_id",
+    "iosBannerAdUnitId": "your_ios_banner_id",
+    "androidInterstitialAdUnitId": "your_android_interstitial_id",
+    "iosInterstitialAdUnitId": "your_ios_interstitial_id"
+}
