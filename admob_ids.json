@@ -1,6 +1,6 @@
 {
-    "androidBannerAdUnitId": "",
-    "iosBannerAdUnitId": "ca-app-pub-3940256099942544/2934735716",
+    "androidBannerAdUnitId": "YOUR_ANDROID_BANNER_ID",
+    "iosBannerAdUnitId": "YOUR_IOS_BANNER_ID",
     "androidInterstitialAdUnitId": "YOUR_ANDROID_INTERSTITIAL_ID",
-    "iosInterstitialAdUnitId": "ca-app-pub-3940256099942544/4411468910",
+    "iosInterstitialAdUnitId": "YOUR_IOS_INTERSTITIAL_ID"
 }
